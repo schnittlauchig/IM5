@@ -6,7 +6,7 @@
 
 ### HTML Structure
 - Die `index.html` ist die Hauptdatei der Webseite.
-- Die Seite enthält eine Header-Sektion, eine Navigation, einen Abschnitt für die Helden der Tour de France und einen Scroll-Top-Button.
+- Die Seite enthält eine Header-Sektion, eine Navigation, einen Abschnitt für die Geschichte der Tour de France und einen Scroll-Top-Button.
 
 ### Header
 - Der Header enthält ein Bild, einen Overlay-Titel und ein Menüsymbol.
@@ -16,8 +16,8 @@
 - Die Navigation enthält Links zu den Seiten "Geschichte", "Route" und "Gewinner".
 - Die Navigation ist auch im mobilen Menü verfügbar.
 
-### Helden der Tour de France
-- Ein Abschnitt mit einer Tabelle, die die Gewinner der Tour de France von 1903 bis 2023 auflistet.
+### Geschichte der Tour de France
+- Ein Abschnitt mit Text, der die geschichtlichen Hintergründe der Tour de France beschreibt.
 
 ### Scroll-Top-Button
 - Ein Button, der erscheint, wenn der Benutzer nach unten scrollt.
@@ -29,10 +29,27 @@
 
 ---
 
-## Route.html und Gewinner.html
+## Route.html
 
 ### HTML Structure
-- Ähnlich wie `index.html` enthalten beide Seiten Header, Navigation und Abschnitte für die Route bzw. Gewinner.
+- Ähnlich wie `index.html` enthält die Seite Header, Navigation und einen Abschnitt für die Route der Tour de France.
+
+### Route der Tour de France
+- Ein Abschnitt mit Text und Bildern, der die Etappen und Herausforderungen der Tour de France beschreibt.
+
+### Styling
+- Das Styling ist grösstenteils gemeinsam mit `styles.css`.
+- Anpassungen für spezifische Seiten sind in den jeweiligen Css-Dateien.
+
+---
+
+## Gewinner.html
+
+### HTML Structure
+- Ähnlich wie `index.html` enthält die Seite Header, Navigation und einen Abschnitt für die Gewinner der Tour de France.
+
+### Gewinner der Tour de France
+- Ein Abschnitt mit einer Tabelle, die die Gewinner der Tour de France von 1903 bis 2023 auflistet.
 
 ### Styling
 - Das Styling ist grösstenteils gemeinsam mit `styles.css`.
@@ -60,19 +77,15 @@
 ### Header und Navigation
 - Styling für Header, Navigation, Menüsymbol und Links.
 
-### Abschnitte und Tabelle
-- Styling für Abschnitte, Überschriften, Absätze und Tabellen.
+### Abschnitte, Tabelle und Bilder
+- Styling für Abschnitte, Überschriften, Absätze, Tabellen und Bilder.
 
 ### Scroll-Top-Button
 - Styling für den Button, einschliesslich seiner Position und Animation.
-
-### Bilder und Overlay
-- Styling für Bilder, Container, Overlay und mittelgrosse Bilder.
 
 ### Wrapper und Responsive Design
 - Styling für Wrapper, maximale Breite und horizontale Zentrierung.
 
 ---
-
 
 
