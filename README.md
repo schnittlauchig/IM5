@@ -35,8 +35,8 @@
 - Ähnlich wie `index.html` enthalten beide Seiten Header, Navigation und Abschnitte für die Route bzw. Gewinner.
 
 ### Styling
-- Das Styling ist größtenteils gemeinsam mit `styles.css`.
-- Anpassungen für spezifische Seiten sind in den jeweiligen CSS-Dateien.
+- Das Styling ist grösstenteils gemeinsam mit `styles.css`.
+- Anpassungen für spezifische Seiten sind in den jeweiligen Css-Dateien.
 
 ---
 
@@ -64,12 +64,15 @@
 - Styling für Abschnitte, Überschriften, Absätze und Tabellen.
 
 ### Scroll-Top-Button
-- Styling für den Button, einschließlich seiner Position und Animation.
+- Styling für den Button, einschliesslich seiner Position und Animation.
 
 ### Bilder und Overlay
-- Styling für Bilder, Container, Overlay und mittelgroße Bilder.
+- Styling für Bilder, Container, Overlay und mittelgrosse Bilder.
 
 ### Wrapper und Responsive Design
 - Styling für Wrapper, maximale Breite und horizontale Zentrierung.
 
 ---
+
+
+
